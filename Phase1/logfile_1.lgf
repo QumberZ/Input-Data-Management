@@ -1,0 +1,106 @@
+[  /.000000] OS: Simulation Start
+[  /.000000] OS: System start
+[  /.000000] OS: Process 0 set to READY state from NEW state.
+[  /.000000] OS: Process 1 set to READY state from NEW state.
+[  /.000000] OS: Process 2 set to READY state from NEW state.
+[  /.000000] OS: Process 0 set to RUNNING state from READY state.
+[  /.000000] Process: 0 device input video signal start, time: 3780 ms.
+[  /.000000] Process: 0 device input video signal end.
+[  /.000000] Process: 0 CPU Process, time: 18 ms.
+[  /.000000] Process: 0 CPU Process end.
+[  /.000000] Process: 0 device output video signal start, time: 4200 ms.
+[  /.000000] Process: 0 device input video signal end.
+[  /.000000] Process: 0 device output sound signal start, time: 2700 ms.
+[  1.000000] Process: 0 device input sound signal end.
+[  1.000000] Process: 0 Memory allocation from 1000 to 2000.
+[  1.000000] Process: 0 Memory allocation from 1000 to 2000 success.
+[  1.000000] Process: 0 device output hard drive start, time: 1620 ms.
+[  2.000000] Process: 0 device input hard drive end.
+[  2.000000] Process: 0 device output hard drive start, time: 1080 ms.
+[  3.000000] Process: 0 device input hard drive end.
+[  3.000000] Process: 0 Memory allocation from 3000 to 3000.
+[  3.000000] Process: 0 Memory allocation from 3000 to 3000 success.
+[  3.000000] Process: 0 device input hard drive start, time: 1260 ms.
+[  5.000000] Process: 0 device input hard drive end.
+[  5.000000] Process: 0 device input keyboard start, time: 4800 ms.
+[  9.000000] Process: 0 device input keyboard end.
+[  9.000000] Process: 0 device output hard drive start, time: 1260 ms.
+[ 11.000000] Process: 0 device input hard drive end.
+[ 11.000000] Process: 0 device input usb start, time: 840 ms.
+[ 11.000000] Process: 0 device input usb end.
+[ 11.000000] Process: 0 device input sound signal start, time: 1500 ms.
+[ 13.000000] Process: 0 device input sound signal end.
+[ 13.000000] Process: 0 device input usb start, time: 1200 ms.
+[ 14.000000] Process: 0 device input usb end.
+[ 14.000000] Process: 0 CPU Process, time: 27 ms.
+[ 14.000000] Process: 0 CPU Process end.
+[ 14.000000] Process: 0 device output serial start, time: 1440 ms.
+[ 16.000000] Process: 0 device input serial end.
+[ 16.000000] Process: 0 device output video signal start, time: 4200 ms.
+[ 20.000000] Process: 0 device input video signal end.
+[ 20.000000] Process: 0 device output hard drive start, time: 1080 ms.
+[ 21.000000] Process: 0 device input hard drive end.
+[ 21.000000] Process: 0 device input hard drive start, time: 1800 ms.
+[ 23.000000] Process: 0 device input hard drive end.
+[ 23.000000] Process: 0 device input hard drive start, time: 1080 ms.
+[ 24.000000] Process: 0 device input hard drive end.
+[ 24.000000] Process: 0 CPU Process, time: 27 ms.
+[ 24.000000] Process: 0 CPU Process end.
+[ 24.000000] Process: 0 CPU Process, time: 21 ms.
+[ 24.000000] Process: 0 CPU Process end.
+[ 24.000000] OS: Process 0 set to EXITED state from RUNNING state.
+[ 24.000000] OS: System stop
+[ 24.000000] OS: Simulation End
+[  /.000000] OS: Simulation Start
+[  /.000000] OS: System start
+[  /.000000] OS: Process 0 set to READY state from NEW state.
+[  /.000000] OS: Process 1 set to READY state from NEW state.
+[  /.000000] OS: Process 2 set to READY state from NEW state.
+[  /.000000] OS: Process 0 set to RUNNING state from READY state.
+[  /.000000] Process: 0 device input video signal start, time: 3780 ms.
+[  0.000000] Process: 0 device input video signal end.
+[  1.000000] Process: 0 CPU Process, time: 18 ms.
+[  1.000000] Process: 0 CPU Process end.
+[  1.000000] Process: 0 device output video signal start, time: 4200 ms.
+[  1.000000] Process: 0 device input video signal end.
+[  1.000000] Process: 0 device output sound signal start, time: 2700 ms.
+[  1.000000] Process: 0 device input sound signal end.
+[  1.000000] Process: 0 Memory allocation from 1000 to 2000.
+[  1.000000] Process: 0 Memory allocation from 1000 to 2000 success.
+[  1.000000] Process: 0 device output hard drive start, time: 1620 ms.
+[  1.000000] Process: 0 device input hard drive end.
+[  1.000000] Process: 0 device output hard drive start, time: 1080 ms.
+[  1.000000] Process: 0 device input hard drive end.
+[  1.000000] Process: 0 Memory allocation from 3000 to 3000.
+[  1.000000] Process: 0 Memory allocation from 3000 to 3000 success.
+[  1.000000] Process: 0 device input hard drive start, time: 1260 ms.
+[  2.000000] Process: 0 device input hard drive end.
+[  2.000000] Process: 0 device input keyboard start, time: 4800 ms.
+[  7.000000] Process: 0 device input keyboard end.
+[  7.000000] Process: 0 device output hard drive start, time: 1260 ms.
+[  8.000000] Process: 0 device input hard drive end.
+[  8.000000] Process: 0 device input usb start, time: 840 ms.
+[  9.000000] Process: 0 device input usb end.
+[  9.000000] Process: 0 device input sound signal start, time: 1500 ms.
+[ 11.000000] Process: 0 device input sound signal end.
+[ 11.000000] Process: 0 device input usb start, time: 1200 ms.
+[ 12.000000] Process: 0 device input usb end.
+[ 12.000000] Process: 0 CPU Process, time: 27 ms.
+[ 12.000000] Process: 0 CPU Process end.
+[ 12.000000] Process: 0 device output serial start, time: 1440 ms.
+[ 14.000000] Process: 0 device input serial end.
+[ 14.000000] Process: 0 device output video signal start, time: 4200 ms.
+[ 18.000000] Process: 0 device input video signal end.
+[ 18.000000] Process: 0 device output hard drive start, time: 1080 ms.
+[ 19.000000] Process: 0 device input hard drive end.
+[ 19.000000] Process: 0 device input hard drive start, time: 1800 ms.
+[ 21.000000] Process: 0 device input hard drive end.
+[ 21.000000] Process: 0 device input hard drive start, time: 1080 ms.
+[ 22.000000] Process: 0 device input hard drive end.
+[ 22.000000] Process: 0 CPU Process, time: 27 ms.
+[ 22.000000] Process: 0 CPU Process end.
+[ 22.000000] Process: 0 CPU Process, time: 21 ms.
+[ 22.000000] Process: 0 CPU Process end.
+[ 22.000000] OS: Process 0 set to EXITED state from RUNNING state.
+[ 22.000000] OS: System stop
+[ 22.000000] OS: Simulation End
